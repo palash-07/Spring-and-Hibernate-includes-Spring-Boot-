@@ -1,0 +1,5 @@
+package com.palash.springdemo.entity;
+
+public class Student {
+
+}

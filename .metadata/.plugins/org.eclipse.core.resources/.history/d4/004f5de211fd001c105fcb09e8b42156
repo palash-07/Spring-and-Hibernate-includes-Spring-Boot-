@@ -1,0 +1,7 @@
+#Define my custom properties
+
+coach.name=Mickey Mouse
+team.name=The Mouse Club
+
+# change the Spring boot embedded support
+server.port=7070

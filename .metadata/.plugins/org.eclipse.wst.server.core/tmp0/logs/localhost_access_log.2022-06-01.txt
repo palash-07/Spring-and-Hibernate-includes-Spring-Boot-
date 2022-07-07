@@ -1,0 +1,11 @@
+127.0.0.1 - - [01/Jun/2022:22:59:27 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Jun/2022:22:59:29 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 137
+0:0:0:0:0:0:0:1 - - [01/Jun/2022:22:59:30 +0530] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 278
+0:0:0:0:0:0:0:1 - - [01/Jun/2022:22:59:32 +0530] "GET /spring-mvc-demo/processFormVersionTwo?studentName=palash HTTP/1.1" 500 6048
+0:0:0:0:0:0:0:1 - - [01/Jun/2022:23:00:02 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 137
+0:0:0:0:0:0:0:1 - - [01/Jun/2022:23:00:03 +0530] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 278
+0:0:0:0:0:0:0:1 - - [01/Jun/2022:23:00:05 +0530] "GET /spring-mvc-demo/processFormVersionTwo?studentName=palash HTTP/1.1" 200 154
+0:0:0:0:0:0:0:1 - - [01/Jun/2022:23:02:06 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 137
+0:0:0:0:0:0:0:1 - - [01/Jun/2022:23:02:09 +0530] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 278
+0:0:0:0:0:0:0:1 - - [01/Jun/2022:23:02:11 +0530] "GET /spring-mvc-demo/processFormVersionTwo?studentName=asasd HTTP/1.1" 200 152
+0:0:0:0:0:0:0:1 - - [01/Jun/2022:23:02:19 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 137

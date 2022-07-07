@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+E:\Techs and frameworks\Spring, Spring Boot and Hibernate\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

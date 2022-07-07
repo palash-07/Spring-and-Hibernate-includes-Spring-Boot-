@@ -1,0 +1,28 @@
+package com.palash.springdemo.rest;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.palash.springdemo.entity.Student;
+
+@RestController
+@RequestMapping("/api")
+public class StudentRestController {
+	
+	// define an endpoint for /students
+	
+	@GetMapping("/students")
+	public List<Student> getStudents() {
+		
+		List<Student> theStudents = new ArrayList<>();
+		
+		theStudents.add(new Student("Carl","Marx"));
+		theStudents.add(new Student("Mary","Jane"));
+		theStudents.add(new Student("Snoop","Dogg"));
+		
+		return null;
+	}
+}

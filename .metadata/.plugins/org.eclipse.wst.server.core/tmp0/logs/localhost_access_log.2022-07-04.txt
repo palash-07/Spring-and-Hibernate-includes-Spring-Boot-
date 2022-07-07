@@ -1,0 +1,13 @@
+127.0.0.1 - - [04/Jul/2022:16:26:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [04/Jul/2022:16:26:04 +0530] "GET /spring-rest-demo/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [04/Jul/2022:16:26:04 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [04/Jul/2022:16:26:10 +0530] "GET /spring-rest-demo/test/hello HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [04/Jul/2022:16:26:22 +0530] "GET /spring-rest-demo/test/hello HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [04/Jul/2022:16:27:59 +0530] "GET /spring-rest-demo/test/hello HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [04/Jul/2022:16:28:05 +0530] "GET /spring-rest-demo/ HTTP/1.1" 200 48
+0:0:0:0:0:0:0:1 - - [04/Jul/2022:16:28:45 +0530] "GET /spring-rest-demo/ HTTP/1.1" 200 108
+0:0:0:0:0:0:0:1 - - [04/Jul/2022:16:28:47 +0530] "GET /spring-rest-demo/test/hello HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [04/Jul/2022:16:30:02 +0530] "GET /spring-rest-demo/ HTTP/1.1" 200 126
+0:0:0:0:0:0:0:1 - - [04/Jul/2022:16:31:29 +0530] "GET /spring-rest-demo/ HTTP/1.1" 200 126
+0:0:0:0:0:0:0:1 - - [04/Jul/2022:16:31:32 +0530] "GET /spring-rest-demo/test/hello HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [04/Jul/2022:16:31:36 +0530] "GET /spring-rest-demo/test/hello HTTP/1.1" 200 11

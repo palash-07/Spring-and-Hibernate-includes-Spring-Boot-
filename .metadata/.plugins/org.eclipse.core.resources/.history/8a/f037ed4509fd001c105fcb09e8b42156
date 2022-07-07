@@ -1,0 +1,5 @@
+package com.palash.springboot.demo.mycoolapp.rest;
+
+public class FunRestController {
+
+}

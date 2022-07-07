@@ -1,0 +1,11 @@
+<html>
+<body>
+
+	<h3>Spring rest demo</h3>
+
+	<hr>
+
+	<a href="test/hello">Hello</a>
+
+</body>
+</html>

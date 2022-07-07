@@ -1,0 +1,5 @@
+package com.palash.springdemo.rest;
+
+public class StudentErrorResponse {
+
+}
